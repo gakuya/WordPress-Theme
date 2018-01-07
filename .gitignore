@@ -1,2 +1,7 @@
 .sass-cache/
 *.css.map
+gulp/package-lock.json
+gulp/node_modules/
+
+.DS_Store
+desktop.ini
